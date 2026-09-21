@@ -1,5 +1,3 @@
-# Customer-Churn-Analysis-PowerBI
-Power BI Customer Churn Analysis &amp; Prediction Project
 # 📊 Customer Churn Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
